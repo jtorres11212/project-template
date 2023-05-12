@@ -1,4 +1,4 @@
-# YOUR PROJECT TITLE HERE
+# Dragon Ball Z Animation
 
 TODO: Replace "TODO" messages with your own text
 TODO: Add a description of your project here
@@ -43,10 +43,9 @@ project-template/build $ ../bin/demo
 
 
 ## Demo of basic features
+[Screen recording 2023-05-11 8.41.04 PM.webm](https://github.com/jtorres11212/project-template/assets/94137311/b562812b-4406-483f-b445-9cd9418f792e)
 
-TODO: Document the main demos your viewer 
 
 ## Unique features 
 
-TODO: Show the unique features you made
-
+Chrome was refusing to cooperate for a few days so after all this time I finally got it to resemble my original idea, but basically the particles are created randomyly in a spherical shape and converge at a point (at the sprite characters hands), are deleted, and shoot off one big particle! Theres a short powering up animation to couple it as well ( kind of like what was done in explosion).
